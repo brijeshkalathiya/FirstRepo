@@ -18,5 +18,10 @@ namespace ClassLibrary
         {
             return x * y;
         }
+
+        public static double divison(double x, double y)
+        {
+            return x * y;
+        }
     }
 }

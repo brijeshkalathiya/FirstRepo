@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BrijeshKalathiyaLibrary</id>
+    <version>1.0.1</version>
+    <authors>Brijesh</authors>
+    <projectUrl>https://github.com/brijeshkalathiya/FirstRepo</projectUrl>
+    <description>calculation addition subtraction</description>
+    <tags>calculation addition subtraction</tags>
+    <repository url="https://github.com/brijeshkalathiya/FirstRepo" />
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\MTECH\source\repos\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll" target="lib\net5.0\ClassLibrary.dll" />
+  </files>
+</package>
